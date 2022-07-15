@@ -1,0 +1,14 @@
+h1 {  
+    color: purple;  
+}
+.highlight {
+    background-color: aqua;
+    color:purple
+}
+#introduction {
+    background-color: aqua;
+    color:purple;
+}
+* {
+    font-family: Arial, Verdana, sans-serif;
+}
